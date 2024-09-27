@@ -2,7 +2,7 @@
 
 ## Installation
 
-### 1. Clone the Repository
+### 1. Clone the Repository 
 
 Clone the repository to your local machine:
 
